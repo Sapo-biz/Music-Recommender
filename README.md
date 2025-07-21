@@ -1,6 +1,6 @@
 # Music Recommender
 
-A simple Java console application that recommends music based on your recent listening habits.
+A simple Java console application that recommends music based on your recent listening habits, all complete with a "Play Song" feature that takes you to a YouTube link.
 
 ## Features
 - Input your last 3 played songs (title, artist, genre)
